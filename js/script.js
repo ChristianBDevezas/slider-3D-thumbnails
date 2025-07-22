@@ -14,7 +14,7 @@ commitmentsContent.appendChild(background);
 
 const backgroundImage = document.createElement("img");
 backgroundImage.classList.add("commitments__item__image");
-backgroundImage.setAttribute("src", "./img/quality.jpg");
+backgroundImage.setAttribute("src", "img/quality.jpg");
 backgroundImage.setAttribute("alt", "Quality of Services");
 background.appendChild(backgroundImage);
 
